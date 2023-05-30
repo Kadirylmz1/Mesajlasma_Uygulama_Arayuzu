@@ -1,1 +1,5 @@
-# Mesajlasma_Uygulama_Arayuzu
+Temel Mesajlaşma Uygulamsı 
+
+
+
+Kadir Yılmaz
